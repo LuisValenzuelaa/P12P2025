@@ -5,7 +5,7 @@
 #include <string>
 #include <iostream>
 #include <matriz.h>
-#define RONDAS 4
+#define RONDAS 5
 #define VOTOS_AFILIADOS 1000
 
 class resultados

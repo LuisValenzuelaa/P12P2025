@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1744131720 source:c:\users\lava2\desktop\proyectoparcialdos\p12p2025\p12p2025\main.cpp
+	<iostream>
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<string.h>
+	<iomanip>
+	<algorithm>
+	<vector>
+	"ciclo.h"
+	"matriz.h"
+	"resultados.h"
+
+1744131231 c:\users\lava2\desktop\proyectoparcialdos\p12p2025\p12p2025\include\ciclo.h
+
+1744132219 c:\users\lava2\desktop\proyectoparcialdos\p12p2025\p12p2025\include\matriz.h
+	<vector>
+
+1744132204 c:\users\lava2\desktop\proyectoparcialdos\p12p2025\p12p2025\include\resultados.h
+	<vector>
+	<string>
+	<iostream>
+	<matriz.h>
+
+1744131600 source:c:\users\lava2\desktop\proyectoparcialdos\p12p2025\p12p2025\src\matriz.cpp
+	"matriz.h"
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<string.h>
+	<iomanip>
+	<algorithm>
+	<vector>
+
+1744132039 source:c:\users\lava2\desktop\proyectoparcialdos\p12p2025\p12p2025\src\resultados.cpp
+	"resultados.h"
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<string.h>
+	<iomanip>
+	<algorithm>
+	<vector>
+
+1744132514 source:c:\users\lava2\desktop\proyectoparcialdos\p12p2025\p12p2025\src\ciclo.cpp
+	"ciclo.h"
+	"matriz.h"
+	"resultados.h"
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<string.h>
+	<iomanip>
+	<algorithm>
+	<vector>
+

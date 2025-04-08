@@ -16,6 +16,7 @@ using namespace std;
 
 int main()
 {
-    cout << "Hello world!" << endl;
+    ciclo cicloVotos;
+    cicloVotos.llamarCiclo();
     return 0;
 }

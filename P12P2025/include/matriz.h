@@ -2,7 +2,7 @@
 #ifndef MATRIZ_H
 #define MATRIZ_H
 #include <vector>
-#define RONDAS 4
+#define RONDAS 5
 #define VOTOS_AFILIADOS 1000
 using namespace std;
 
