@@ -16,7 +16,7 @@ using namespace std;
 
 int main()
 {
-    ciclo cicloVotos;
+    ciclo cicloVotos; //iniciar
     cicloVotos.llamarCiclo();
     return 0;
 }

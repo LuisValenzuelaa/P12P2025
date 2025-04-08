@@ -14,7 +14,7 @@ using namespace std;
 
 resultados::resultados(){}
 
-void resultados::imprimirMatrizLinea() {
+void resultados::imprimirMatrizLinea() { //ajuste general
     cout << "+----------";
     for (int x = 0; x <= RONDAS; x++) {
         cout << "+-----------";
@@ -35,7 +35,7 @@ void resultados::contarVotos(const std::vector<std::vector<std::vector<int>>> &m
 
 void resultados::imprimirResultados(std::vector<std::vector<int>> &conteo, std::vector<std::string> &nombre) {
     std::vector<int> totalVotos(nombre.size(), 0);
-    for (size_t i = 0; i < nombre.size(); i++) {
+    for (size_t i = 0; i < nombre.size(); i++) { // conteos
         for (int ronda = 0; ronda < RONDAS; ronda++) {
             totalVotos[i] += conteo[i][ronda];
         }
