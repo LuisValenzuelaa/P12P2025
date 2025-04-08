@@ -1,0 +1,29 @@
+commit abe20596603321845eeef31f9a034eef6a23fcb8
+Author: L-A-V-2-2 <lav80111@gmail.com>
+Date:   Tue Apr 8 11:18:47 2025 -0600
+
+    cambios menores
+
+commit 9512651c2fa03fc098b0bf27b8fae1bc590c7147
+Author: L-A-V-2-2 <lav80111@gmail.com>
+Date:   Tue Apr 8 11:17:36 2025 -0600
+
+    desarrollo de los métodos
+
+commit b9a6c492336927a86998e868f60ea1bda9090649
+Author: L-A-V-2-2 <lav80111@gmail.com>
+Date:   Tue Apr 8 10:57:10 2025 -0600
+
+    programación de los encabezados
+
+commit 6396469771c8cb1e6c3750c4b5edfe9c2f3cb861
+Author: L-A-V-2-2 <lav80111@gmail.com>
+Date:   Tue Apr 8 10:49:50 2025 -0600
+
+    creacion de clases
+
+commit 5b64d1e74fa76696e71252cf12617900a33dbd4c
+Author: Luis Alberto Valenzuela Aguilar <lav80111@gmail.com>
+Date:   Tue Apr 8 10:07:54 2025 -0600
+
+    Initial commit
